@@ -2,50 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/admin_settings/steps/</loc>
+    <loc>//localhost:1313/docs/admin_settings/admin_account/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/admin_settings/</loc>
+    <loc>//localhost:1313/docs/installation/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/</loc>
+    <loc>//localhost:1313/docs/installation/overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/overview/</loc>
+    <loc>//localhost:1313/docs/admin_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/system_req/</loc>
+    <loc>//localhost:1313/docs/admin_settings/smtp/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/soft_required/</loc>
+    <loc>//localhost:1313/docs/admin_settings/domain/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/steps/</loc>
+    <loc>//localhost:1313/docs/installation/system_req/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/installation/install_cms/</loc>
+    <loc>//localhost:1313/docs/installation/soft_required/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/</loc>
+    <loc>//localhost:1313/docs/admin_settings/registration/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/buttons/</loc>
+    <loc>//localhost:1313/docs/installation/steps/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/columns/</loc>
+    <loc>//localhost:1313/docs/admin_settings/trial/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/details/</loc>
+    <loc>//localhost:1313/docs/admin_settings/build_queue/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/hints/</loc>
+    <loc>//localhost:1313/docs/admin_settings/dowlload_sdk/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/mermaid/</loc>
+    <loc>//localhost:1313/docs/installation/install_cms/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/section/</loc>
+    <loc>//localhost:1313/docs/admin_settings/updates/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/section/first-page/</loc>
+    <loc>//localhost:1313/docs/admin_settings/payment_systems/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/section/second-page/</loc>
+    <loc>//localhost:1313/docs/admin_settings/currency/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/tabs/</loc>
+    <loc>//localhost:1313/docs/admin_settings/plans/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/docs/admin_settings/languages/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>//localhost:1313/shortcodes/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/katex/</loc>
+    <loc>//localhost:1313/shortcodes/buttons/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/shortcodes/columns/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/shortcodes/details/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/hints/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/mermaid/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/section/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/section/first-page/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/section/second-page/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/tabs/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/</loc>
+  </url><url>
+    <loc>//localhost:1313/shortcodes/katex/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
