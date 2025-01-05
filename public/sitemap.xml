@@ -2,7 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/admin_settings/steps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/admin_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/overview/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/system_req/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/soft_required/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/steps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/installation/install_cms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/buttons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/columns/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/hints/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/mermaid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/section/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/section/first-page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/section/second-page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/tabs/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/shortcodes/katex/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>

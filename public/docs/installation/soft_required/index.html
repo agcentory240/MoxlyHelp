@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
+  Install required libraries and tools
+  #
+
+
+
+First, update and clean sources list
+apt-get update -yqq &amp;&amp;  apt-get install -y apt-utils
+then install this dependencies:
+apt-get update &amp;&amp; apt-get install -y build-essential libpng-dev  locales zip jpegoptim optipng pngquant gifsicle unzip zip git curl lua-zlib-dev libmemcached-dev wget
+
+
+Install NodeJS 22.X
+curl -sL https://deb.nodesource.com/setup_22.x -o setup_22.sh
+sh ./setup_18.sh
+sudo apt-get install -y nodejs
+
+
+Install NPM
+wget https://www.npmjs.com/install.sh | sh
+chmod &#43;x install.sh
+./install.sh
+
+
+Install Ionic 7
+Before install Ionic, you must install NPM.
+npm i -g @ionic/cli@7">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/docs/installation/soft_required/">
+  <meta property="og:site_name" content="Moxly App Builder Help">
+  <meta property="og:title" content="Required libraries and tools">
+  <meta property="og:description" content="Install required libraries and tools#First, update and clean sources list apt-get update -yqq &amp;&amp; apt-get install -y apt-utils then install this dependencies: apt-get update &amp;&amp; apt-get install -y build-essential libpng-dev locales zip jpegoptim optipng pngquant gifsicle unzip zip git curl lua-zlib-dev libmemcached-dev wget
+Install NodeJS 22.X curl -sL https://deb.nodesource.com/setup_22.x -o setup_22.sh sh ./setup_18.sh sudo apt-get install -y nodejs
+Install NPM wget https://www.npmjs.com/install.sh | sh chmod &#43;x install.sh ./install.sh
+Install Ionic 7 Before install Ionic, you must install NPM. npm i -g @ionic/cli@7">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+<title>Required libraries and tools | Moxly App Builder Help</title>
+<link rel="icon" href="/favicon.png" >
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/installation/soft_required/">
+<link rel="stylesheet" href="/book.min.6c8b9d2a1fc95075ed7da46ca81060b39add8fff6741ac51259f768929281e2c.css" integrity="sha256-bIudKh/JUHXtfaRsqBBgs5rdj/9nQaxRJZ92iSkoHiw=" crossorigin="anonymous">
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.f76cee5bca5aefd59f358844937d570db64ea66393af14c0dc2d46c7e5541c44.js" integrity="sha256-92zuW8pa79WfNYhEk31XDbZOpmOTrxTA3C1Gx&#43;VUHEQ=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Moxly App Builder Help</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Installation</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/admin_settings/steps/" class="">Admin account</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Installation</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/installation/overview/" class="">Overview</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/installation/system_req/" class="">System Requirements</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/installation/soft_required/" class="active">Required libraries and tools</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/installation/steps/" class="">Installation steps</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/installation/install_cms/" class="">Install Moxly App Builder</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Required libraries and tools</h3>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#install-required-libraries-and-tools">Install required libraries and tools</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h2 id="install-required-libraries-and-tools">
+  Install required libraries and tools
+  <a class="anchor" href="#install-required-libraries-and-tools">#</a>
+</h2>
+<ol>
+<li>
+<p>First, update and clean sources list
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>apt-get update -yqq <span style="color:#960050;background-color:#1e0010">&amp;&amp;</span>  apt-get install -y apt-utils</span></span></code></pre></div>
+then install this dependencies:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>apt-get update <span style="color:#960050;background-color:#1e0010">&amp;&amp;</span> apt-get install -y build-essential libpng-dev  locales zip jpegoptim optipng pngquant gifsicle unzip zip git curl lua-zlib-dev libmemcached-dev wget</span></span></code></pre></div></p>
+</li>
+<li>
+<p>Install NodeJS 22.X
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>curl -sL https://deb.nodesource.com/setup_22.x -o setup_22.sh
+</span></span><span style="display:flex;"><span>sh ./setup_18.sh
+</span></span><span style="display:flex;"><span>sudo apt-get install -y nodejs</span></span></code></pre></div></p>
+</li>
+<li>
+<p>Install NPM
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>wget https://www.npmjs.com/install.sh | sh
+</span></span><span style="display:flex;"><span>chmod +x install.sh
+</span></span><span style="display:flex;"><span>./install.sh</span></span></code></pre></div></p>
+</li>
+<li>
+<p>Install Ionic 7
+Before install Ionic, you must install NPM.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>npm i -g @ionic/cli@7</span></span></code></pre></div></p>
+</li>
+<li>
+<p>Install PHP 8
+Support ONLY PHP 8.1 and higher (in CGI and CLI mode). Before setup platform, you must configure your server for use PHP8 version in HTTP and console mode.
+How to add PHP 8.1 to Ubuntu 20.xx:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>sudo apt update
+</span></span><span style="display:flex;"><span>sudo apt install lsb-release ca-certificates apt-transport-https software-properties-common -y
+</span></span><span style="display:flex;"><span>sudo add-apt-repository ppa:ondrej/php
+</span></span><span style="display:flex;"><span>sudo apt install php8.1</span></span></code></pre></div>
+check installed version:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>php -v</span></span></code></pre></div>
+Install this extensions:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>sudo apt install php8.1-mysql php8.1-zip php8.1-xml php8.1-dom php8.1-curl php8.1-common php-json php8.1-mbstring php-mysql php-curl php8.1-gd php8.1-xml</span></span></code></pre></div></p>
+</li>
+</ol>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#install-required-libraries-and-tools">Install required libraries and tools</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Moxly App Builder Help</title>
+    <link>http://localhost:1313/installation/</link>
+    <description>Recent content in Installation on Moxly App Builder Help</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О нас</title>
+      <link>http://localhost:1313/installation/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/installation/install/</guid>
+      <description>&lt;h1 id=&#34;system-requirements&#34;&gt;&#xD;&#xA;  System Requirements&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#system-requirements&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The platform uses PHP language version 8.1 and operating system Ubuntu 20. We would like to note that the php 8.1 version must be installed both for the domain and  for use in the console (via SSH).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The platform requires either a dedicated server or a VPS with root access.&lt;/li&gt;&#xA;&lt;li&gt;Beforehand, a domain must be connected on the server and an SSL certificate for this domain must be configured.&lt;/li&gt;&#xA;&lt;li&gt;The operating system used for CMS – Ubuntu 20.&lt;/li&gt;&#xA;&lt;li&gt;We recommend the following configuration: 4 GB of RAM, at least 40 GB of hard disk space (preferably SSD), 2+ CORE.&lt;/li&gt;&#xA;&lt;li&gt;You need to increase PHP max_execution_time in Apache or NGINX and for PHP in CLI mode to 1200&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You can install these add-ons yourself, or contact the technical support of your hosting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin panel settings on Moxly App Builder Help</title>
+    <link>http://localhost:1313/docs/admin_settings/</link>
+    <description>Recent content in Admin panel settings on Moxly App Builder Help</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/admin_settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admin account</title>
+      <link>http://localhost:1313/docs/admin_settings/admin_account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/admin_account/</guid>
+      <description>&lt;h2 id=&#34;default-account&#34;&gt;&#xD;&#xA;  Default account&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#default-account&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Immediately after installation&lt;/strong&gt;, the first thing (for security reasons) is to change the data of the default account of the platform administrator.&lt;/p&gt;&#xA;&lt;p&gt;Default data after installation: login &lt;a href=&#34;mailto:admin@admin.com&#34;&gt;admin@admin.com&lt;/a&gt; password: admin.&lt;/p&gt;&#xA;&lt;p&gt;And so, to replace the data with your own, go to the My Profile page by clicking on the icon next to the Name on the left in the site header.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_12-09-08.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Also, change the passwords or disable the accounts &lt;a href=&#34;mailto:manager@manager.com&#34;&gt;manager@manager.com&lt;/a&gt; and &lt;a href=&#34;mailto:customer@customer.com&#34;&gt;customer@customer.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SMTP settings</title>
+      <link>http://localhost:1313/docs/admin_settings/smtp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/smtp/</guid>
+      <description>&lt;h2 id=&#34;smtp-settings&#34;&gt;&#xD;&#xA;  SMTP settings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#smtp-settings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The program uses email notifications during registration and password recovery.&lt;/p&gt;&#xA;&lt;p&gt;Enter your details. You can obtain this information from your provider.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_13-03-30.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Domain settings</title>
+      <link>http://localhost:1313/docs/admin_settings/domain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/domain/</guid>
+      <description>&lt;h2 id=&#34;domain-settings&#34;&gt;&#xD;&#xA;  Domain settings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#domain-settings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;And so, to configure the parameters of the domain and administrator’s e-mail, as well as the system user name, you need:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Select “Domain Settings”.&lt;/li&gt;&#xA;&lt;li&gt;In field 1, specify the main Domain where your platform is located.&lt;/li&gt;&#xA;&lt;li&gt;In field 2, the system Email from which notifications will be sent to your clients and users.&lt;/li&gt;&#xA;&lt;li&gt;In field 2 specify a system username that will also be seen by your clients and users.&lt;/li&gt;&#xA;&lt;li&gt;After filling in the fields, be sure to click “Save Changes”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_13-06-44.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_13-06-44.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
