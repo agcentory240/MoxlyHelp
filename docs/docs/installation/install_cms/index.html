@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
+  Install Moxly App Builder
+  #
+
+
+  Steps
+  #
+
+After install all requred dependencies and tools, you can install platform.
+Аollow these steps:
+
+Set the domain name to be used for the platform
+Setup domain dir in server
+Install an SSL certificate, since the platform only works with a secure connection.
+Create MySQL database
+Upload install.zip to domain folder and unpack.
+
+After then, open your domain url in browser and make install with follow the instructions.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="/docs/installation/install_cms/">
+  <meta property="og:site_name" content="Moxly App Builder Help">
+  <meta property="og:title" content="Install Moxly App Builder">
+  <meta property="og:description" content="Install Moxly App Builder#Steps#After install all requred dependencies and tools, you can install platform.
+Аollow these steps:
+Set the domain name to be used for the platform Setup domain dir in server Install an SSL certificate, since the platform only works with a secure connection. Create MySQL database Upload install.zip to domain folder and unpack. After then, open your domain url in browser and make install with follow the instructions.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+<title>Install Moxly App Builder | Moxly App Builder Help</title>
+<link rel="icon" href="../../../favicon.png" >
+<link rel="manifest" href="../../../manifest.json">
+<link rel="canonical" href="../../../docs/installation/install_cms/">
+<link rel="stylesheet" href="../../../book.min.6c8b9d2a1fc95075ed7da46ca81060b39add8fff6741ac51259f768929281e2c.css" >
+  <script defer src="../../../fuse.min.js"></script>
+  <script defer src="../../../en.search.min.e25a74cf6233893d9295f9b9139f10702ba0739d8a8e20321d8a40ede6a5c32a.js" ></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="../../../"><span>Moxly App Builder Help</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Installation</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/installation/overview/" class="">Overview</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/installation/system_req/" class="">System Requirements</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/installation/soft_required/" class="">Required libraries and tools</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/installation/steps/" class="">Installation steps</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/installation/install_cms/" class="active">Install Moxly App Builder</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Admin panel settings</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/admin_account/" class="">Admin account</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/smtp/" class="">SMTP settings</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/domain/" class="">Domain settings</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/registration/" class="">Users registration</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/trial/" class="">Trial period</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/build_queue/" class="">Build queue</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/dowlload_sdk/" class="">Download SDK and Logs</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/updates/" class="">Platform updates</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/payment_systems/" class="">Payment systems</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/currency/" class="">Currency</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/plans/" class="">Pricing plans</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../../../docs/admin_settings/languages/" class="">Languages</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="../../../svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Install Moxly App Builder</h3>
+
+  <label for="toc-control">
+    
+    <img src="../../../svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#steps">Steps</a></li>
+    <li><a href="#add-a-scheduler">Add a Scheduler</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h1 id="install-moxly-app-builder">
+  Install Moxly App Builder
+  <a class="anchor" href="#install-moxly-app-builder">#</a>
+</h1>
+<h2 id="steps">
+  Steps
+  <a class="anchor" href="#steps">#</a>
+</h2>
+<p>After install all requred dependencies and tools, you can install platform.</p>
+<p>Аollow these steps:</p>
+<ul>
+<li>Set the domain name to be used for the platform</li>
+<li>Setup domain dir in server</li>
+<li>Install an SSL certificate, since the platform only works with a secure connection.</li>
+<li>Create MySQL database</li>
+<li>Upload install.zip to domain folder and unpack.</li>
+</ul>
+<p>After then, open your domain url in browser and make install with follow the instructions.</p>
+<h2 id="add-a-scheduler">
+  Add a Scheduler
+  <a class="anchor" href="#add-a-scheduler">#</a>
+</h2>
+<p><strong>You must add this command to cron:</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go-html-template" data-lang="go-html-template"><span style="display:flex;"><span>php /path/to/your/domain/artisan schedule:run  &gt;/dev/null 2&gt;<span style="color:#960050;background-color:#1e0010">&amp;</span>1 </span></span></code></pre></div>
+This cron job mut be running every minuts</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#steps">Steps</a></li>
+    <li><a href="#add-a-scheduler">Add a Scheduler</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
