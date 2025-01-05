@@ -63,5 +63,33 @@
       <guid>http://localhost:1313/docs/admin_settings/updates/</guid>
       <description>&lt;h2 id=&#34;license-information&#34;&gt;&#xD;&#xA;  License Information&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#license-information&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Here you can view your license number and its status, activate or deactivate it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_13-54-06.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_13-54-06.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A platform with an inactive license will not receive updates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;platform-update&#34;&gt;&#xD;&#xA;  Platform Update&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#platform-update&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;In the side menu, go to the “Updates and modules”.&lt;/li&gt;&#xA;&lt;li&gt;Select a subsection (tab) “Platform update”.&lt;/li&gt;&#xA;&lt;li&gt;Check for updates by clicking the “Check now” button.&lt;/li&gt;&#xA;&lt;li&gt;If there are updates, then click the “Update now” button below.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_13-56-33.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_13-56-33.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Payment systems</title>
+      <link>http://localhost:1313/docs/admin_settings/payment_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/payment_systems/</guid>
+      <description>&lt;h2 id=&#34;stripe&#34;&gt;&#xD;&#xA;  Stripe&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#stripe&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;To connect Stripe, you need to fill in the form with the required details. You can obtain this information from Stripe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_14-52-36.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_14-52-36.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Please note that these settings must be configured for each plan. Each plan offers two payment options: monthly or yearly. Consider this in your pricing strategy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paypal&#34;&gt;&#xD;&#xA;  Paypal&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#paypal&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Paypal is not supported at this moment. Will be released in next versions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Currency</title>
+      <link>http://localhost:1313/docs/admin_settings/currency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/currency/</guid>
+      <description>&lt;h2 id=&#34;default-currency&#34;&gt;&#xD;&#xA;  Default currency&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#default-currency&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The default currency in the system is used for user billing calculations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_16-09-47.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_16-09-47.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pricing plans</title>
+      <link>http://localhost:1313/docs/admin_settings/plans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/plans/</guid>
+      <description>&lt;h1 id=&#34;pricing-plan-configuration&#34;&gt;&#xD;&#xA;  Pricing plan configuration&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#pricing-plan-configuration&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;plans&#34;&gt;&#xD;&#xA;  Plans&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#plans&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Up to 4 pricing plans can be configured.&lt;/p&gt;&#xA;&lt;p&gt;The total number of pricing plans can be unlimited, but no more than 4 can be active at a time. The remaining plans will be archived.&lt;/p&gt;&#xA;&lt;p&gt;A pricing plan can only be deleted if it is not in use. If at least one user is assigned to the plan, it cannot be deleted.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_16-15-38.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_16-15-38.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Languages</title>
+      <link>http://localhost:1313/docs/admin_settings/languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/admin_settings/languages/</guid>
+      <description>&lt;h1 id=&#34;languages-and-translations&#34;&gt;&#xD;&#xA;  Languages and translations&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#languages-and-translations&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The system offers automatic translation management. The number of translations can be unlimited. Translations are added through the admin panel. Translations can be edited if necessary. And previously added ones can be deleted.&lt;/p&gt;&#xA;&lt;h2 id=&#34;default-language&#34;&gt;&#xD;&#xA;  Default language&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#default-language&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;By default, English is used, but it can always be changed in the settings, and any of the added languages can be set as the default language.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/2025-01-05_16-50-44.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2025-01-05_16-50-44.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
