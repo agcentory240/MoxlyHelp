@@ -23,6 +23,13 @@
     </item>
     <item>
       <title>Dashboard</title>
+      <link>//localhost:1313/docs/app_settings/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/dashboard/</guid>
+      <description>&lt;h2 id=&#34;dashboard&#34;&gt;&#xD;&#xA;  Dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The application displays the number of registered users in the app over the past 30 days, the number of app installations on each platform, and the number of app reopenings on each platform.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-06-43.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-06-43.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard</title>
       <link>//localhost:1313/docs/customer/dashboard-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/customer/dashboard-manager/</guid>
@@ -41,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/customer/roles/</guid>
       <description>&lt;h2 id=&#34;manager-roles&#34;&gt;&#xD;&#xA;  Manager roles&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manager-roles&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A separate role can be created for a manager, assigning the available functions they can perform and specifying which menus they will have access to.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-50-54.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-50-54.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each manager can have only one assigned role.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/docs/app_settings/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/news/</guid>
+      <description>&lt;h2 id=&#34;news&#34;&gt;&#xD;&#xA;  News&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#news&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A list of guests and events is created by the platform administrator and managed through the administrative interface.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-10-16.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-10-16.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SMTP settings</title>
@@ -64,6 +78,13 @@
       <description>&lt;h2 id=&#34;managers&#34;&gt;&#xD;&#xA;  Managers&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#managers&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Managers can be created, deleted, and edited. The number of managers for your account is determined by your plan and is configured from all available plans in the main admin panel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-53-40.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-53-40.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Access to the applications each manager can manage is configured individually.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>PUSH messages</title>
+      <link>//localhost:1313/docs/app_settings/push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/push/</guid>
+      <description>&lt;h2 id=&#34;push-messages&#34;&gt;&#xD;&#xA;  PUSH messages&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#push-messages&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Next, with permission enabled on their devices to receive PUSH notifications, you can send a PUSH message selectively or in bulk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-45-53.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-45-53.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can specify an image, a page that will open in the app when the PUSH notification is received and activated, as well as the date and time for sending the PUSH notification.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-52-50.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-52-50.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;An important note: To send PUSH messagesy, Firebase services must be connected to the application.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>System Requirements</title>
       <link>//localhost:1313/docs/installation/system_req/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,11 +92,25 @@
       <description>&lt;h1 id=&#34;system-requirements&#34;&gt;&#xD;&#xA;  System Requirements&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#system-requirements&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The platform uses PHP language version 8.1 and operating system Ubuntu 20. We would like to note that the php 8.1 version must be installed both for the domain and  for use in the console (via SSH).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The platform requires either a dedicated server or a VPS with root access.&lt;/li&gt;&#xA;&lt;li&gt;Beforehand, a domain must be connected on the server and an SSL certificate for this domain must be configured.&lt;/li&gt;&#xA;&lt;li&gt;The operating system used for CMS – Ubuntu 20.&lt;/li&gt;&#xA;&lt;li&gt;We recommend the following configuration: 4 GB of RAM, at least 40 GB of hard disk space (preferably SSD), 2+ CORE.&lt;/li&gt;&#xA;&lt;li&gt;You need to increase PHP max_execution_time in Apache or NGINX and for PHP in CLI mode to 1200&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You can install these add-ons yourself, or contact the technical support of your hosting.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Application users</title>
+      <link>//localhost:1313/docs/app_settings/customers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/customers/</guid>
+      <description>&lt;h2 id=&#34;application-users&#34;&gt;&#xD;&#xA;  Application users&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-users&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Next, with permission enabled on their devices to receive PUSH notifications, you can send a PUSH message selectively or in bulk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-56-36.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-56-36.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Users who registered through the app using the integrated registration form. Additionally, if necessary, a user can be added manually or existing users can be edited.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-58-16.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-58-16.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Applications</title>
       <link>//localhost:1313/docs/customer/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/customer/apps/</guid>
       <description>&lt;h2 id=&#34;your-applications&#34;&gt;&#xD;&#xA;  Your Applications&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#your-applications&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A complete list of your applications, including the creation date, name, application logo, and the space it occupies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-57-55.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-57-55.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For quick access, you can block, unblock, delete the application, go to its settings, or open its file manager.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build application</title>
+      <link>//localhost:1313/docs/app_settings/build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/build/</guid>
+      <description>&lt;h2 id=&#34;build-application&#34;&gt;&#xD;&#xA;  Build application&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#build-application&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;When an application build is requested, it will be placed in the queue. After some time, the build will start, and eventually, the application will be built. You can download the build log. If the build fails, an error log will be displayed.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_14-01-26.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_14-01-26.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Build mode specified in your plan.&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-history&#34;&gt;&#xD;&#xA;  Building history&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#building-history&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Stored on the platform for some time. After 3 days, the history is deleted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Required libraries and tools</title>
@@ -90,6 +125,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/admin_settings/registration/</guid>
       <description>&lt;h2 id=&#34;users-registration&#34;&gt;&#xD;&#xA;  Users registration&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#users-registration&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;You can change the possibility of registration of new users.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_13-24-54.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_13-24-54.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If registration is disabled, new users will not be able to register. However, previously registered users will still be able to operate. Additionally, you can manually add a user.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application settings</title>
+      <link>//localhost:1313/docs/app_settings/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/app_settings/settings/</guid>
+      <description>&lt;h2 id=&#34;application-settings&#34;&gt;&#xD;&#xA;  Application settings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-settings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the application settings, you can specify the app name, description, version, BundleID, and screen orientation mode – portrait, landscape, or both. The version and BundleID must be obtained from PlayMarket or the AppStore.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_14-09-45.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_14-09-45.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;application-icon&#34;&gt;&#xD;&#xA;  Application icon&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-icon&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the application, you can add a custom icon; otherwise, the platform&amp;rsquo;s default icon will be displayed. The icon must be 1024x1024 pixels in size, in PNG format, and you must also specify a background color to be used if the icon has transparency. Keep in mind that this icon will also be displayed in the Apple Play Store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installation steps</title>
