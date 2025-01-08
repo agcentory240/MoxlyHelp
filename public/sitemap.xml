@@ -4,21 +4,47 @@
   <url>
     <loc>//localhost:1313/docs/admin_settings/admin_account/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/admin_settings/dashboard/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/dashboard/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/customer/dashboard-manager/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/installation/</loc>
   </url><url>
     <loc>//localhost:1313/docs/installation/overview/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/customer/roles/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/news/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/admin_settings/smtp/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/customer/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/domain/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/customer/managers/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/push/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/installation/system_req/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/customers/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/customer/apps/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/build/</loc>
   </url><url>
     <loc>//localhost:1313/docs/installation/soft_required/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/registration/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/settings/</loc>
   </url><url>
     <loc>//localhost:1313/docs/installation/steps/</loc>
   </url><url>
@@ -26,9 +52,17 @@
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/build_queue/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/app_settings/databases/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/screens/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/appointments/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/admin_settings/dowlload_sdk/</loc>
   </url><url>
     <loc>//localhost:1313/docs/installation/install_cms/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/app_settings/estore/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/updates/</loc>
   </url><url>

@@ -4,27 +4,55 @@
   <url>
     <loc>/docs/admin_settings/admin_account/</loc>
   </url><url>
+    <loc>/docs/admin_settings/dashboard/</loc>
+  </url><url>
+    <loc>/docs/app_settings/dashboard/</loc>
+  </url><url>
+    <loc>/docs/customer/dashboard-manager/</loc>
+  </url><url>
     <loc>/docs/installation/</loc>
   </url><url>
     <loc>/docs/installation/overview/</loc>
   </url><url>
     <loc>/docs/admin_settings/</loc>
   </url><url>
+    <loc>/docs/customer/roles/</loc>
+  </url><url>
+    <loc>/docs/app_settings/news/</loc>
+  </url><url>
     <loc>/docs/admin_settings/smtp/</loc>
+  </url><url>
+    <loc>/docs/customer/</loc>
   </url><url>
     <loc>/docs/admin_settings/domain/</loc>
   </url><url>
+    <loc>/docs/customer/managers/</loc>
+  </url><url>
+    <loc>/docs/app_settings/push/</loc>
+  </url><url>
     <loc>/docs/installation/system_req/</loc>
+  </url><url>
+    <loc>/docs/app_settings/customers/</loc>
+  </url><url>
+    <loc>/docs/customer/apps/</loc>
+  </url><url>
+    <loc>/docs/app_settings/build/</loc>
   </url><url>
     <loc>/docs/installation/soft_required/</loc>
   </url><url>
     <loc>/docs/admin_settings/registration/</loc>
+  </url><url>
+    <loc>/docs/app_settings/</loc>
+  </url><url>
+    <loc>/docs/app_settings/settings/</loc>
   </url><url>
     <loc>/docs/installation/steps/</loc>
   </url><url>
     <loc>/docs/admin_settings/trial/</loc>
   </url><url>
     <loc>/docs/admin_settings/build_queue/</loc>
+  </url><url>
+    <loc>/docs/screens/</loc>
   </url><url>
     <loc>/docs/admin_settings/dowlload_sdk/</loc>
   </url><url>

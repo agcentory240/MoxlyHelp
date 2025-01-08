@@ -15,6 +15,13 @@
       <description>&lt;h2 id=&#34;default-account&#34;&gt;&#xD;&#xA;  Default account&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#default-account&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Immediately after installation&lt;/strong&gt;, the first thing (for security reasons) is to change the data of the default account of the platform administrator.&lt;/p&gt;&#xA;&lt;p&gt;Default data after installation: login &lt;a href=&#34;mailto:admin@admin.com&#34;&gt;admin@admin.com&lt;/a&gt; password: admin.&lt;/p&gt;&#xA;&lt;p&gt;And so, to replace the data with your own, go to the My Profile page by clicking on the icon next to the Name on the left in the site header.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/2025-01-05_12-09-08.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Also, change the passwords or disable the accounts &lt;a href=&#34;mailto:manager@manager.com&#34;&gt;manager@manager.com&lt;/a&gt; and &lt;a href=&#34;mailto:customer@customer.com&#34;&gt;customer@customer.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dashboard</title>
+      <link>/docs/admin_settings/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/admin_settings/dashboard/</guid>
+      <description>&lt;h2 id=&#34;dashboard&#34;&gt;&#xD;&#xA;  Dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The dashboard displays the latest registrations from the past 30 days, the latest payments from the past 30 days, the total number of users, the total number of applications, the number of applications in the build queue, and the number of blocked applications. Additionally, if there are requests for linking custom domains, this information is also shown on the main screen. Furthermore, if a platform update is available, a notification will appear on the main screen.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SMTP settings</title>
       <link>/docs/admin_settings/smtp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

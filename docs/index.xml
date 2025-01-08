@@ -15,11 +15,46 @@
       <description>&lt;h2 id=&#34;default-account&#34;&gt;&#xD;&#xA;  Default account&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#default-account&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Immediately after installation&lt;/strong&gt;, the first thing (for security reasons) is to change the data of the default account of the platform administrator.&lt;/p&gt;&#xA;&lt;p&gt;Default data after installation: login &lt;a href=&#34;mailto:admin@admin.com&#34;&gt;admin@admin.com&lt;/a&gt; password: admin.&lt;/p&gt;&#xA;&lt;p&gt;And so, to replace the data with your own, go to the My Profile page by clicking on the icon next to the Name on the left in the site header.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/2025-01-05_12-09-08.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Also, change the passwords or disable the accounts &lt;a href=&#34;mailto:manager@manager.com&#34;&gt;manager@manager.com&lt;/a&gt; and &lt;a href=&#34;mailto:customer@customer.com&#34;&gt;customer@customer.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dashboard</title>
+      <link>/docs/admin_settings/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/admin_settings/dashboard/</guid>
+      <description>&lt;h2 id=&#34;dashboard&#34;&gt;&#xD;&#xA;  Dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The dashboard displays the latest registrations from the past 30 days, the latest payments from the past 30 days, the total number of users, the total number of applications, the number of applications in the build queue, and the number of blocked applications. Additionally, if there are requests for linking custom domains, this information is also shown on the main screen. Furthermore, if a platform update is available, a notification will appear on the main screen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>/docs/app_settings/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/dashboard/</guid>
+      <description>&lt;h2 id=&#34;dashboard&#34;&gt;&#xD;&#xA;  Dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The application displays the number of registered users in the app over the past 30 days, the number of app installations on each platform, and the number of app reopenings on each platform.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-06-43.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-06-43.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>/docs/customer/dashboard-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/customer/dashboard-manager/</guid>
+      <description>&lt;h2 id=&#34;main-page-of-dashboard&#34;&gt;&#xD;&#xA;  Main page of dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#main-page-of-dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;It displays on the screen statistics about application space usage, the number of applications, the number of managers, the current pricing plan, and access to create a new application.&#xA;&lt;a href=&#34;./images/2025-01-05_21-42-12.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-42-12.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;manager-dashboard&#34;&gt;&#xD;&#xA;  Manager dashboard&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manager-dashboard&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;It differs in that there is no option to create applications, and in the application list and statistics, only those applications to which this manager is assigned are displayed.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Overview</title>
       <link>/docs/installation/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/installation/overview/</guid>
       <description>&lt;h2 id=&#34;overview-and-introduction&#34;&gt;&#xD;&#xA;  Overview and Introduction&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#overview-and-introduction&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Technologies and frameworks used in the platform:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Laravel 8.1 for backend&lt;/li&gt;&#xA;&lt;li&gt;Angular 17 for frontend&lt;/li&gt;&#xA;&lt;li&gt;Ionic 8, Angular17+ and Capacitor for the mobile part&lt;/li&gt;&#xA;&lt;li&gt;The mobile part can also use Cordova plugins.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Manager roles</title>
+      <link>/docs/customer/roles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/customer/roles/</guid>
+      <description>&lt;h2 id=&#34;manager-roles&#34;&gt;&#xD;&#xA;  Manager roles&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manager-roles&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A separate role can be created for a manager, assigning the available functions they can perform and specifying which menus they will have access to.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-50-54.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-50-54.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each manager can have only one assigned role.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/docs/app_settings/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/news/</guid>
+      <description>&lt;h2 id=&#34;news&#34;&gt;&#xD;&#xA;  News&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#news&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A list of guests and events is created by the platform administrator and managed through the administrative interface.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-10-16.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-10-16.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SMTP settings</title>
@@ -36,11 +71,46 @@
       <description>&lt;h2 id=&#34;domain-settings&#34;&gt;&#xD;&#xA;  Domain settings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#domain-settings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;And so, to configure the parameters of the domain and administrator’s e-mail, as well as the system user name, you need:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Select “Domain Settings”.&lt;/li&gt;&#xA;&lt;li&gt;In field 1, specify the main Domain where your platform is located.&lt;/li&gt;&#xA;&lt;li&gt;In field 2, the system Email from which notifications will be sent to your clients and users.&lt;/li&gt;&#xA;&lt;li&gt;In field 2 specify a system username that will also be seen by your clients and users.&lt;/li&gt;&#xA;&lt;li&gt;After filling in the fields, be sure to click “Save Changes”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_13-06-44.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_13-06-44.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Managers</title>
+      <link>/docs/customer/managers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/customer/managers/</guid>
+      <description>&lt;h2 id=&#34;managers&#34;&gt;&#xD;&#xA;  Managers&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#managers&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Managers can be created, deleted, and edited. The number of managers for your account is determined by your plan and is configured from all available plans in the main admin panel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-53-40.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-53-40.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Access to the applications each manager can manage is configured individually.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PUSH messages</title>
+      <link>/docs/app_settings/push/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/push/</guid>
+      <description>&lt;h2 id=&#34;push-messages&#34;&gt;&#xD;&#xA;  PUSH messages&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#push-messages&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Next, with permission enabled on their devices to receive PUSH notifications, you can send a PUSH message selectively or in bulk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_12-45-53.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_12-45-53.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can specify an image, a page that will open in the app when the PUSH notification is received and activated, as well as the date and time for sending the PUSH notification.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-52-50.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-52-50.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;An important note: To send PUSH messagesy, Firebase services must be connected to the application.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>System Requirements</title>
       <link>/docs/installation/system_req/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/installation/system_req/</guid>
       <description>&lt;h1 id=&#34;system-requirements&#34;&gt;&#xD;&#xA;  System Requirements&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#system-requirements&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The platform uses PHP language version 8.1 and operating system Ubuntu 20. We would like to note that the php 8.1 version must be installed both for the domain and  for use in the console (via SSH).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The platform requires either a dedicated server or a VPS with root access.&lt;/li&gt;&#xA;&lt;li&gt;Beforehand, a domain must be connected on the server and an SSL certificate for this domain must be configured.&lt;/li&gt;&#xA;&lt;li&gt;The operating system used for CMS – Ubuntu 20.&lt;/li&gt;&#xA;&lt;li&gt;We recommend the following configuration: 4 GB of RAM, at least 40 GB of hard disk space (preferably SSD), 2+ CORE.&lt;/li&gt;&#xA;&lt;li&gt;You need to increase PHP max_execution_time in Apache or NGINX and for PHP in CLI mode to 1200&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You can install these add-ons yourself, or contact the technical support of your hosting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application users</title>
+      <link>/docs/app_settings/customers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/customers/</guid>
+      <description>&lt;h2 id=&#34;application-users&#34;&gt;&#xD;&#xA;  Application users&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-users&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Next, with permission enabled on their devices to receive PUSH notifications, you can send a PUSH message selectively or in bulk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-56-36.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-56-36.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Users who registered through the app using the integrated registration form. Additionally, if necessary, a user can be added manually or existing users can be edited.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_13-58-16.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_13-58-16.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Applications</title>
+      <link>/docs/customer/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/customer/apps/</guid>
+      <description>&lt;h2 id=&#34;your-applications&#34;&gt;&#xD;&#xA;  Your Applications&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#your-applications&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A complete list of your applications, including the creation date, name, application logo, and the space it occupies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_21-57-55.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_21-57-55.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For quick access, you can block, unblock, delete the application, go to its settings, or open its file manager.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build application</title>
+      <link>/docs/app_settings/build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/build/</guid>
+      <description>&lt;h2 id=&#34;build-application&#34;&gt;&#xD;&#xA;  Build application&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#build-application&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;When an application build is requested, it will be placed in the queue. After some time, the build will start, and eventually, the application will be built. You can download the build log. If the build fails, an error log will be displayed.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_14-01-26.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_14-01-26.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Build mode specified in your plan.&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-history&#34;&gt;&#xD;&#xA;  Building history&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#building-history&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Stored on the platform for some time. After 3 days, the history is deleted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Required libraries and tools</title>
@@ -55,6 +125,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/admin_settings/registration/</guid>
       <description>&lt;h2 id=&#34;users-registration&#34;&gt;&#xD;&#xA;  Users registration&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#users-registration&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;You can change the possibility of registration of new users.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-05_13-24-54.png&#34;&gt;&lt;img src=&#34;./images/2025-01-05_13-24-54.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If registration is disabled, new users will not be able to register. However, previously registered users will still be able to operate. Additionally, you can manually add a user.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application settings</title>
+      <link>/docs/app_settings/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/app_settings/settings/</guid>
+      <description>&lt;h2 id=&#34;application-settings&#34;&gt;&#xD;&#xA;  Application settings&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-settings&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the application settings, you can specify the app name, description, version, BundleID, and screen orientation mode – portrait, landscape, or both. The version and BundleID must be obtained from PlayMarket or the AppStore.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./images/2025-01-06_14-09-45.png&#34;&gt;&lt;img src=&#34;./images/2025-01-06_14-09-45.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;application-icon&#34;&gt;&#xD;&#xA;  Application icon&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#application-icon&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the application, you can add a custom icon; otherwise, the platform&amp;rsquo;s default icon will be displayed. The icon must be 1024x1024 pixels in size, in PNG format, and you must also specify a background color to be used if the icon has transparency. Keep in mind that this icon will also be displayed in the Apple Play Store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installation steps</title>
