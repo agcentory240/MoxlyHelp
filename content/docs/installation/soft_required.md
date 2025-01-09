@@ -53,3 +53,11 @@ Install this extensions:
 {{< highlight go-html-template >}}
 sudo apt install php8.1-mysql php8.1-zip php8.1-xml php8.1-dom php8.1-curl php8.1-common php-json php8.1-mbstring php-mysql php-curl php8.1-gd php8.1-xml
 {{< / highlight >}}
+
+
+
+# ⚠️ Attention!
+
+**This library differs from the libraries used in the previous version**, so **simultaneous operation of both versions on the same server is not guaranteed**.
+
+If you plan to install this version of the platform on a server with the older version, please note: **you do so at your own risk!**
