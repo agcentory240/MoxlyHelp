@@ -14,13 +14,19 @@
   </url><url>
     <loc>//localhost:1313/docs/installation/overview/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/rest-api/system/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/admin_settings/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/rest-api/db/</loc>
   </url><url>
     <loc>//localhost:1313/docs/customer/roles/</loc>
   </url><url>
     <loc>//localhost:1313/docs/app_settings/news/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/smtp/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/rest-api/users/</loc>
   </url><url>
     <loc>//localhost:1313/docs/customer/</loc>
   </url><url>
@@ -61,6 +67,8 @@
     <loc>//localhost:1313/docs/admin_settings/dowlload_sdk/</loc>
   </url><url>
     <loc>//localhost:1313/docs/installation/install_cms/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/rest-api/</loc>
   </url><url>
     <loc>//localhost:1313/docs/app_settings/estore/</loc>
   </url><url>

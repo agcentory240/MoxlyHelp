@@ -14,13 +14,19 @@
   </url><url>
     <loc>/docs/installation/overview/</loc>
   </url><url>
+    <loc>/docs/rest-api/system/</loc>
+  </url><url>
     <loc>/docs/admin_settings/</loc>
+  </url><url>
+    <loc>/docs/rest-api/db/</loc>
   </url><url>
     <loc>/docs/customer/roles/</loc>
   </url><url>
     <loc>/docs/app_settings/news/</loc>
   </url><url>
     <loc>/docs/admin_settings/smtp/</loc>
+  </url><url>
+    <loc>/docs/rest-api/users/</loc>
   </url><url>
     <loc>/docs/customer/</loc>
   </url><url>
@@ -52,21 +58,35 @@
   </url><url>
     <loc>/docs/admin_settings/build_queue/</loc>
   </url><url>
+    <loc>/docs/app_settings/databases/</loc>
+  </url><url>
     <loc>/docs/screens/</loc>
+  </url><url>
+    <loc>/docs/app_settings/appointments/</loc>
   </url><url>
     <loc>/docs/admin_settings/dowlload_sdk/</loc>
   </url><url>
     <loc>/docs/installation/install_cms/</loc>
   </url><url>
+    <loc>/docs/rest-api/</loc>
+  </url><url>
+    <loc>/docs/app_settings/estore/</loc>
+  </url><url>
     <loc>/docs/admin_settings/updates/</loc>
   </url><url>
     <loc>/docs/admin_settings/payment_systems/</loc>
+  </url><url>
+    <loc>/docs/changelog/</loc>
   </url><url>
     <loc>/docs/admin_settings/currency/</loc>
   </url><url>
     <loc>/docs/admin_settings/plans/</loc>
   </url><url>
     <loc>/docs/admin_settings/languages/</loc>
+  </url><url>
+    <loc>/docs/changelog/301/</loc>
+  </url><url>
+    <loc>/docs/changelog/300/</loc>
   </url><url>
     <loc>/shortcodes/</loc>
   </url><url>
