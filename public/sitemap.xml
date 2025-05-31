@@ -76,11 +76,17 @@
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/payment_systems/</loc>
   </url><url>
+    <loc>//localhost:1313/docs/changelog/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/admin_settings/currency/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/plans/</loc>
   </url><url>
     <loc>//localhost:1313/docs/admin_settings/languages/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/changelog/301/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/changelog/300/</loc>
   </url><url>
     <loc>//localhost:1313/shortcodes/</loc>
   </url><url>

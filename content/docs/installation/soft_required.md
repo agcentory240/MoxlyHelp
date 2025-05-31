@@ -18,7 +18,8 @@ apt-get update && apt-get install -y build-essential libpng-dev  locales zip jpe
 2. Install NodeJS 22.X
 {{< highlight go-html-template >}}
 curl -sL https://deb.nodesource.com/setup_22.x -o setup_22.sh
-sh ./setup_18.sh
+chmod +x setup_22.sh
+sudo bash ./setup_22.sh
 sudo apt-get install -y nodejs
 {{< / highlight >}}
 
